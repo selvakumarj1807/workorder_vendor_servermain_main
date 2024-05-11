@@ -1,0 +1,19 @@
+[
+    {
+        "businessName" : "software",
+        "companyName": "selva info tech",
+        "streetAddress" : "pandian nagar",
+        "streetAddressLine2":"1st streeet",
+        "city":"Dgl",
+        "state":"Dindigul",
+        "phoneNo":"9558001426",
+        "postalCode":"624001",
+        "bankName":"HDFC",
+        "brachName":"dgl",
+        "accounterName":"selva",
+        "accountNumber":"123456078963",
+        "ifscCode":"HDF12034",
+        "upiId":"selva@paytm"
+    
+    }
+]
